@@ -28,7 +28,7 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aminduweerawardhana)
-[![Kaggle](https://img.shields.io/badge/Kaggle-00599C?style=flat&logo=kaggle)](https://kaggle.com/amindu286)
+[![Kaggle](https://img.shields.io/badge/Kaggle-00599C?style=flat&logo=kaggle)](https://kaggle.com/aminduweerawardhana)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/amindu286)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/amindu286)
 
